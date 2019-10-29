@@ -3,7 +3,9 @@ class Person
     @name=name
   end
   def name=(name)
-    the_person_name=
+    the_person_name=name 
 end
+
 def 
+  
 end 
