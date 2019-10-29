@@ -14,7 +14,7 @@ def initialize(name,breed=nil)
     @the_dog_breed
   end
 end
-fido=Dog.new(Mutt)
+
 fido.breed
 
 
