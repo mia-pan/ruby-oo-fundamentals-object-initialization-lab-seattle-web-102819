@@ -6,6 +6,8 @@ class Person
     the_person_name=name 
 end
 
-def 
+def name 
+  the_person_name
+end
   
 end 
